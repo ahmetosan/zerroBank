@@ -6,16 +6,16 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        glue = "com/zerroBank/stepDef",
-        features = "src/test/resources",
+        glue = "com/zerroBank/StepDef",
+        features = "src/test/resources/features",
         dryRun = false,
         strict = false,
-        tags = "",
+        tags = "@login",
         plugin ={
-                "html:target/default-html-report",
-                 "json:target/cucumber7.json",
-                 "rerun:target/rerun.txt"
-        }
+                "json:target/cucumber.json",
+                "html:target/default-html-reports",
+                "rerun:target/rerun.txt"
+}
 )
 public class CucumberRunner {
 }
