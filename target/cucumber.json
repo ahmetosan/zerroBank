@@ -1,0 +1,66 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "start_timestamp": "2020-07-07T04:38:19.670Z",
+        "line": 8,
+        "name": "Users\twith\twrong\tusername\tor\twrong\tpassword\tshould\tnot\tbe\table\tto\tlogin.",
+        "description": "",
+        "id": "login-feature;users-with-wrong-username-or-wrong-password-should-not-be-able-to-login.",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "io.cucumber.java.PendingException: TODO: implement me\r\n\tat com.zerroBank.StepDef.LoginibrahimStepDef.users_should_not_be_able_to_login(LoginibrahimStepDef.java:14)\r\n\tat ✽.users should not be able to login(file:///C:/Users/ibrahim/IdeaProjects/zerroBank/src/test/resources/features/Loginibrahim.feature:9)\r\n",
+              "duration": 12478500,
+              "status": "pending"
+            },
+            "line": 9,
+            "name": "users should not be able to login",
+            "match": {
+              "location": "com.zerroBank.StepDef.LoginibrahimStepDef.users_should_not_be_able_to_login()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1531300,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "user logs in with invalid credentials",
+            "match": {
+              "location": "com.zerroBank.StepDef.LoginibrahimStepDef.user_logs_in_with_invalid_credentials()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1994600,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "error\tmessage\tLogin\tand/or password\tare\twrong. should\tbe\tdisplayed",
+            "match": {
+              "location": "com.zerroBank.StepDef.LoginibrahimStepDef.error_message_Login_and_or_password_are_wrong_should_be_displayed()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Login"
+          }
+        ]
+      }
+    ],
+    "name": "Login Feature",
+    "description": "",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Loginibrahim.feature",
+    "tags": []
+  }
+]

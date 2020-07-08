@@ -1,0 +1,51 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "start_timestamp": "2020-07-07T04:06:07.516Z",
+        "line": 6,
+        "name": "Only\tauthorized\tusers\tshould\tbe\table\tto\tlogin\tto\tthe\tapplication",
+        "description": "",
+        "id": "login-feature;only-authorized-users-should-be-able-to-login-to-the-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "users should be able to login",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "user logs in\twith\tvalid\tcredentials",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "Account summary\tpage\tshould\tbe\tdisplayed",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Feature",
+    "description": "",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Loginibrahim.feature",
+    "tags": []
+  }
+]

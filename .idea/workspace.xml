@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a7b789a-4542-45f2-96fe-e7f9355e962c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zerroBank/Runner/CucumberRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zerroBank/Runner/CucumberRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zerroBank/StepDef/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/zerroBank/StepDef/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/delete" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Substep Feature" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eL2DA3fte2lDsUUocTYY35Txo3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.preview.features.used" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrahim\IdeaProjects\zerroBank\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CucumberRunner">
+    <configuration name="Feature: Loginibrahim" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4.5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Loginibrahim.feature" />
+      <option name="GLUE" value="com.zerroBank.StepDef" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ZerroBank" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Loginibrahim" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZerroBank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zerroBank.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zerroBank.Runner" />
+      <option name="MAIN_CLASS_NAME" value="com.zerroBank.Runner.CucumberRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CucumberRunner" />
+        <item itemvalue="Cucumber Java.Feature: Loginibrahim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a7b789a-4542-45f2-96fe-e7f9355e962c" name="Default Changelist" comment="" />
+      <created>1594086430235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594086430235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594086686862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1360.104.1360.728@0.0.1536.824" timestamp="1594086686862" />
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom" timestamp="1594096697005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824/-1360.104.1360.728@0.0.1536.824" timestamp="1594096697005" />
+    <state width="1493" height="245" key="GridCell.Tab.0.center" timestamp="1594096697005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.center/0.0.1536.824/-1360.104.1360.728@0.0.1536.824" timestamp="1594096697005" />
+    <state width="1493" height="245" key="GridCell.Tab.0.left" timestamp="1594096697004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.left/0.0.1536.824/-1360.104.1360.728@0.0.1536.824" timestamp="1594096697004" />
+    <state width="1493" height="245" key="GridCell.Tab.0.right" timestamp="1594096697005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="245" key="GridCell.Tab.0.right/0.0.1536.824/-1360.104.1360.728@0.0.1536.824" timestamp="1594096697005" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1594096303001">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/-1360.104.1360.728@0.0.1536.824" timestamp="1594096303001" />
+  </component>
+</project>
