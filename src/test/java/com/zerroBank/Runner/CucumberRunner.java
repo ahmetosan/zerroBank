@@ -6,6 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
+
         glue = "com/zerroBank/StepDef",
         features = "src/test/resources/features",
         dryRun = false,
@@ -16,6 +17,7 @@ import org.junit.runner.RunWith;
                 "html:target/default-html-reports",
                 "rerun:target/rerun.txt"
 }
+
 )
 public class CucumberRunner {
 }
